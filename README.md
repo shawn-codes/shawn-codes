@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vashawn Robinson</h1>
+<h1 align="center">Hi 👋, I'm Shawn</h1>
 <h3 align="center">A passionate frontend developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawn-codes&label=Profile%20views&color=0e75b6&style=flat" alt="shawn-codes" /> </p>
