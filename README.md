@@ -1,17 +1,8 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
-
-
 <p align="center">
 I'm a Computer Science student with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
 <br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shawn-codes&show_icons=true&locale=en&layout=compact" alt="shawn-codes" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shawn-codes&show_icons=true&locale=en" alt="shawn-codes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shawn-codes&" alt="shawn-codes" /></p>
-
-
+  
 <br>
 
 
@@ -72,6 +63,15 @@ I'm a Computer Science student with a passion for web programming. My goal is to
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+
+<p><img align="left"  width="360" src="https://github-readme-stats.vercel.app/api/top-langs?username=shawn-codes&show_icons=true&locale=en&layout=compact" alt="shawn-codes" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shawn-codes&show_icons=true&locale=en" alt="shawn-codes" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shawn-codes&" alt="shawn-codes" /></p>
+
 
 
 
