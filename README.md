@@ -66,7 +66,7 @@ I'm a Computer Science student with a passion for web programming. My goal is to
 
 
 
-<p><img align="left"  width="360" src="https://github-readme-stats.vercel.app/api/top-langs?username=shawn-codes&show_icons=true&locale=en&layout=compact" alt="shawn-codes" /></p>
+<p><img align="left"  width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=shawn-codes&show_icons=true&locale=en&layout=compact" alt="shawn-codes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shawn-codes&show_icons=true&locale=en" alt="shawn-codes" /></p>
 
