@@ -18,16 +18,15 @@ I'm a Computer Science and Information Science student at the University of Mary
 
 ## 🏆 Goals
 
-- 📖  Learn the basics of **Crypto currency**.
-- 🚀 Continue gaining experience in developing full-stack applications using **React** and **Node.js**.
-- 🌐 Improve my knowledge of **web accessibility standards** and incorporate them into my projects.
-- 🎨 Learn new design techniques and tools to enhance my **UI/UX** design skills.
+- Learn the basics of **Crypto currency**.
+- Continue gaining experience in developing full-stack applications using **React** and **Node.js**.
+- Improve my knowledge of **web accessibility standards** and incorporate them into my projects.
+- Learn new design techniques and tools to enhance my **UI/UX** design skills.
 
 ## 🎯 Future Goals
 
 - 🌟 Share my knowledge and experience by teaching and mentoring others in the tech community.
 - 🧠 Study the fundamentals of **Artificial Intelligence** and its various subfields.
-- 🤖 Build a project that demonstrates my knowledge of **AI** and **Machine learning**.
 
 
 
