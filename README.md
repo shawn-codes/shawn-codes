@@ -2,18 +2,18 @@
 <p align="center">
 I'm a Computer Science and Information Science student at the University of Maryland, College Park with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
 <br>
-  
+
 <br>
 
 
 ## Currently❗️
-- 🔭 I’m currently working on **Developing an that deals with crypto currency.**.
+- I’m currently working on **Developing an that deals with crypto currency.**.
   
-- 🌱 I’m currently improving my skills in **Data Structures and Algorithms**.
+- I’m currently improving my skills in **Data Structures and Algorithms**.
   
-- 🤝 I’m looking for help in learning about **Accessible Websites**.
+- I’m looking for help in learning about **Accessible Websites**.
   
-- 👯 I’m looking to collaborate on **Developing new open-source projects**.
+- I’m looking to collaborate on **Developing new open-source projects**.
 
 
 ## 🏆 Goals
@@ -25,8 +25,8 @@ I'm a Computer Science and Information Science student at the University of Mary
 
 ## 🎯 Future Goals
 
-- 🌟 Share my knowledge and experience by teaching and mentoring others in the tech community.
-- 🧠 Study the fundamentals of **Artificial Intelligence** and its various subfields.
+-  Share my knowledge and experience by teaching and mentoring others in the tech community.
+-  Study the fundamentals of **Artificial Intelligence** and its various subfields.
 
 
 
