@@ -7,9 +7,9 @@ I'm a Computer Science and Information Science student at the University of Mary
 
 
 ## Currently❗️
-- 🔭 I’m currently working on **An iOS App**.
+- 🔭 I’m currently working on **Developing an that deals with crypto currency.**.
   
-- 🌱 I’m currently learning **Swift**.
+- 🌱 I’m currently improving my skills in **Data Structures and Algorithms**.
   
 - 🤝 I’m looking for help in learning about **Accessible Websites**.
   
@@ -18,8 +18,7 @@ I'm a Computer Science and Information Science student at the University of Mary
 
 ## 🏆 Goals
 
-- 📖 Learn the basics of **iOS Development**.
-- 📱 Build a simple mobile app using **Swift** and **XCode**.
+- 📖  Learn the basics of **Crypto currency**.
 - 🚀 Continue gaining experience in developing full-stack applications using **React** and **Node.js**.
 - 🌐 Improve my knowledge of **web accessibility standards** and incorporate them into my projects.
 - 🎨 Learn new design techniques and tools to enhance my **UI/UX** design skills.
