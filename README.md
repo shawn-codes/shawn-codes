@@ -7,7 +7,7 @@ I'm a Computer Science and Information Science student at the University of Mary
 
 
 ## Currently❗️
-- I’m currently working on **Developing an that deals with crypto currency.**.
+- I’m currently working on **Developing an that deals with cryptoo currency.**.
   
 - I’m currently improving my skills in **Data Structures and Algorithms**.
   
